@@ -13,6 +13,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
 
+
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
