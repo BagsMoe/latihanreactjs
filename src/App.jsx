@@ -1,8 +1,8 @@
 import './App.css'
-import Footer from './componen/footer/index'
+import Footer from './componen/footer/'
 
-import Header from './componen/header/index'
-import Main from './componen/main/index'
+import Header from './componen/header/'
+import Main from './componen/main/'
 
 const App = () => {
     
