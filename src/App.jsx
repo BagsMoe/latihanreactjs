@@ -1,5 +1,5 @@
 import './App.css'
-import Footer from './componen/footer'
+import Footer from './componen/footer/index'
 
 import Header from './componen/header/index'
 import Main from './componen/main/index'
